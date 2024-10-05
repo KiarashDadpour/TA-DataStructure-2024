@@ -2,3 +2,6 @@
 ## Syllables:  
 - ### Algorithm Analysis
 - ### Array-Based Sequences
+- ### Stacks
+- ### Queues
+- ###  Linked Lists
