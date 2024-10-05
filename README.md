@@ -7,3 +7,5 @@
 - ###  Linked Lists
 - ###  Trees
 - ###  Graph Algorithms
+## Date and Time:
+### Sundays , 18:00 to 20:00 
