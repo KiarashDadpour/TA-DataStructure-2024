@@ -1,1 +1,4 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms 2024
+## Syllables:  
+- ### Algorithm Analysis
+- ### Array-Based Sequences
