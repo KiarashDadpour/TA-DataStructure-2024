@@ -5,3 +5,5 @@
 - ### Stacks
 - ### Queues
 - ###  Linked Lists
+- ###  Trees
+- ###  Graph Algorithms
