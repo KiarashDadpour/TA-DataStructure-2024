@@ -8,5 +8,5 @@
 - ###  Linked Lists
 - ###  Trees
 - ###  Graph Algorithms
-### Guilan University , Faculty of Mathematical Sciences
+### Faculty of Mathematical Sciences, Guilan University 
 
