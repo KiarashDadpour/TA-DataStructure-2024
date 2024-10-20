@@ -13,3 +13,5 @@
 #### 4) Optimized Bubble Sort
  - Task: Implement an optimized version of the Bubble Sort algorithm for an array of integers.
  - Objective: Stop the sorting process early if the array becomes sorted before completing all comparisons.
+
+Fall 2024
