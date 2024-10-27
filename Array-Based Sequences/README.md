@@ -1,2 +1,3 @@
-WEEK 2:
-Here is a summary of class:  
+WEEK 1: 
+
+Here is a summary of class:
