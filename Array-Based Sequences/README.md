@@ -1,9 +1,7 @@
 WEEK 1: 
 
 Here is a summary of class:
-Summary of Yesterday’s Class
 
-Topics Covered:
 
 - Definition of Arrays
 - Difference between Arrays and Lists
@@ -15,5 +13,3 @@ Topics Covered:
  • Adding Two Sparse Matrices
  • Storing Polynomials Using Arrays
  • Implementation of a Polynomial Class in Python
-
-The class was attended by 28 students and lasted for 1 hour and 10 minutes in classroom 6 of the Faculty Building.
