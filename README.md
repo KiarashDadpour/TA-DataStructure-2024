@@ -5,7 +5,6 @@
 - ### Array-Based Sequences
 - ### Stacks
 - ### Queues
-- ###  Linked Lists
 - ###  Trees
 - ###  Graph Algorithms
 ### Faculty of Mathematical Sciences, Guilan University 
