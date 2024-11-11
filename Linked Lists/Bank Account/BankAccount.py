@@ -29,7 +29,7 @@ class BankLinkedList:
 
     def __init__(self):
         self.head = None
-        # self.size = 0
+        self.size = 0
 
     def is_empty(self):
         return self.head is None
@@ -54,7 +54,6 @@ class BankLinkedList:
             current = current.next
         return vip_list.traversal()
 
-
     def traversal(self):
         if self.is_empty():
             return "Empty List!!!"
@@ -63,3 +62,21 @@ class BankLinkedList:
             print(current.user_name, end=" ==> ")
             current = current.next
 
+
+def load_data_from_file(filename):
+    linked_list = BankLinkedList()
+    with open(filename, 'r') as file:
+        for line in file:
+            parts = line.strip().split(',')
+            if len(parts) == 3:
+                user_name = parts[0].strip()
+                id = parts[1].strip()
+                balance = float(parts[2].strip())
+                new_node = BankNode(user_name, id, balance)
+                linked_list.add_node(new_node)
+    return linked_list
+
+
+filename = "users_data.txt"
+
+L = load_data_from_file(filename)
