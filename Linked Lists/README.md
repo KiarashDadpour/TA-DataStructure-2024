@@ -16,4 +16,4 @@ Here is a summary of class:
   - Decrease Balance
   - Identify VIP Customers
 
-**Note**: Customer information was read from a CSV file.
+**Note**: Customers information was read from a CSV file.
