@@ -1,0 +1,8 @@
+Ali Akbar,1001,10000
+Amir Mahmodi,1002,20000
+Keyhan Ahmadi,1003,2000
+Sara Asadi,1004,15000
+Mohsen Vadodi,1005,1000
+Kian Roustaei, 1006, 100
+Reza Borhani, 1007, 14500
+Aslan Porzad, 1008, 4000
