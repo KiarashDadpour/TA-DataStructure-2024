@@ -73,9 +73,6 @@ class LinkedList:
                 current = current.next
 
     def insert_end(self, node):
-        """
-        O(1)
-        """
         pass
 
 
