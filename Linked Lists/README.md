@@ -12,8 +12,8 @@ Here is a summary of class:
 - Types of Insertions in Doubly Linked List
 - Types of Deletions from Doubly Linked List
 - Implementation of a program to create a bank using linked lists with methods: 
-  - Deposit Balance
-  - Withdraw Money
+  - Increase Balance
+  - Decrease Balance
   - Identify VIP Customers
 
 **Note**: Customer information was read from a CSV file.
