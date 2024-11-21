@@ -40,4 +40,6 @@ class Stack:
             return "Stack is empty"
         while not self.is_empty():
             print(self.pop())
-            
+
+
+
